@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    background-color:rgb(0, 0, 0);
+    color:darkred;
+    text-align:center;
+    font-family:verdana;
+}
+h1 {
+    background-color:darkred;
+    color:white;
+}
+h2 {
+    color:bisque;
+}
+a {
+    text-decoration:none;
+    color:darkred;
+}
+p.next {
+    text-align:end;
+}
+p.prov {
+    text-align:start;
+}
