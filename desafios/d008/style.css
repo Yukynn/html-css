@@ -1,0 +1,12 @@
+body.temacinza {
+    background-color:gray;
+    color:bisque;
+}
+body.temaverde {
+    background-color:rgb(87, 192, 87);
+    color:rgb(0, 255, 51);
+}
+body.temaamarelo {
+    background-color:rgb(227, 227, 79);
+    color:rgb(255, 251, 0);
+}

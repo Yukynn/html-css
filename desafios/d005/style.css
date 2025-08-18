@@ -1,0 +1,42 @@
+body {
+    
+    background-color:#BDBFBE;
+}
+img  {
+    background-color:rgb(84, 17, 113);
+    border-radius:75%;
+    margin:auto;
+    
+}
+h1 {
+    font-size:40px;
+    font-family:fantasy;
+    text-align:center;
+    color:#9196F2;
+}
+h2 {
+    font-size:30px;
+    font-family:fantasy;
+    text-align:center;
+    color:#675ABF
+}
+p {
+    font-family:verdana;
+    text-align:center;
+    color:beige
+}
+strong {
+    color:#735840
+}
+li {
+    font-family:Verdana;
+    text-align:center;
+    color:#A68C76
+}
+img.foto {
+    display:block;
+}
+ul {
+    padding:0;
+    list-style:none;
+}
